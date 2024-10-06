@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aprubila
+- 👋 Hi, I’m @blue
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning phyton
 - 💞️ I’m looking to collaborate on ...
